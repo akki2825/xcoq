@@ -25,3 +25,5 @@ Arch based distros:
 ```
 sudo pacman -S coq
 ```
+
+For vim users, get this [plugin](https://github.com/the-lambda-church/coquille)
